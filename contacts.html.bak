@@ -7,8 +7,7 @@
     <link rel="stylesheet" href="css/styles2.css">
 </head>
 <body>
-   <header>
-        <h1>Современные технологии компьютерных сетей</h1>
+    <header>
         <nav>
             <ul>
                 <li><a href="index.html">Главная</a></li>
@@ -18,6 +17,7 @@
             </ul>
         </nav>
     </header>
+
     <main>
         <h2>Контактная информация</h2>
         <section class="roles">

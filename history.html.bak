@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Виды технологий</title>
+    <title>История</title>
     <link rel="stylesheet" href="css/styles2.css">
 </head>
 <body>
     <header>
-        <h1>Современные технологии компьютерных сетей</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Главная</a></li>
@@ -18,23 +17,25 @@
             </ul>
         </nav>
     </header>
+
     <main>
-         <section class="text-image-section">
+        <section class="text-image-section">
             <div class="text">
-                <h2>Виды технологий</h2>
+                <h2>История компьютерных сетей</h2>
                 <p>
-                    <img src="img/img6.jpg" alt="Схема устройства сети" class="centered-image">
-                    Компьютерные сети классифицируются по различным критериям, таким как масштаб, способ подключения, архитектура и функции. Основные виды сетей включают:
+                    <img src="img/img2.jpg" alt="Схема устройства сети" class="centered-image">
+                    Связь на небольшие расстояния в компьютерной технике существовала еще задолго до появления первых персональных компьютеров
                 </p>
                 <div class="button-container">
-                    <a href="lan.html" class="button">LAN</a>
-                    <a href="gan.html" class="button">GAN</a>
-                    <a href="vpn.html" class="button">VPN</a>
-					<a href="vpn.html" class="button">PAN</a>
+                    <a href="mainframe.html" class="button">Подробнее о Mainframes</a>
+                    <a href="micropc.html" class="button">Первые микрокомпьютеры</a>
+                    <a href="pc.html" class="button">Эра персональных ПК</a>
+                    <a href="todayhistory.html" class="button">Современные сети</a>
                 </div>
             </div>
         </section>
     </main>
+
     <footer>
         <p>&copy; 2024 Хлебников Олег. Все права защищены.</p>
     </footer>
